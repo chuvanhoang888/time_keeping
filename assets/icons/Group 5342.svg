@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Group_5342" data-name="Group 5342" transform="translate(0 0.497)">
+    <rect id="Rectangle_2002" data-name="Rectangle 2002" width="21" height="21" transform="translate(0 -0.497)" fill="none"/>
+    <g id="security-pin" transform="translate(2.709 1.35)">
+      <g id="Group_112" data-name="Group 112">
+        <path id="Path_37" data-name="Path 37" d="M75.55,0a6.8,6.8,0,0,0-6.733,6.854c0,2.114,1.069,4.68,3.178,7.626a33.6,33.6,0,0,0,3.128,3.758.6.6,0,0,0,.845.009A30.331,30.331,0,0,0,79.1,14.583c2.11-2.9,3.18-5.5,3.18-7.73A6.8,6.8,0,0,0,75.55,0Zm0,9.812a3.291,3.291,0,1,1,3.291-3.291A3.3,3.3,0,0,1,75.55,9.812Z" transform="translate(-68.817 0)" fill="#969696"/>
+      </g>
+    </g>
+  </g>
+</svg>

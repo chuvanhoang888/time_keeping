@@ -1,0 +1,416 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <filter id="Key" x="284.263" y="613.075" width="87.737" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-2" x="125.5" y="613.075" width="152.615" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-3" x="2" y="613.075" width="38.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-4" x="45" y="613.075" width="38.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-5" x="88" y="613.075" width="32.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-6" x="330" y="559.667" width="42" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-7" x="284.5" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-7"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-8" x="247" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-9" x="209.5" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-10" x="172" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-10"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-11" x="134" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-12" x="96.5" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-12"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-13" x="59" y="560.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-14" x="3" y="559.667" width="42" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-15" x="322" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-15"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-16" x="284.5" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-16"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-17" x="247" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-17"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-18" x="209.5" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-18"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-19" x="172" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-19"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-20" x="134" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-20"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-21" x="96.5" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-21"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-22" x="59" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-22"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-23" x="21.5" y="506.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-23"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-24" x="340.5" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-24"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-25" x="303" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-25"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-26" x="265.5" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-26"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-27" x="228" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-27"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-28" x="190.5" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-28"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-29" x="153" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-29"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-30" x="115.5" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-30"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-31" x="78" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-31"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-32" x="40.5" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-32"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-33" x="3" y="452.075" width="31.5" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-33"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_6_7_8_3">
+      <rect width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_3" data-name="iPhone 6/7/8 – 3" clip-path="url(#clip-iPhone_6_7_8_3)">
+    <rect width="375" height="667" fill="#1d1d1d"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 0.075)">
+      <path id="Background" d="M0,0H375V224.925H0Z" transform="translate(0 442)" fill="rgba(70,70,70,0.94)"/>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key)">
+        <rect id="Key-34" data-name="Key" width="87.737" height="42" rx="5" transform="translate(284.26 613.07)" fill="#676767"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-2)">
+        <rect id="Key-35" data-name="Key" width="152.615" height="42" rx="5" transform="translate(125.5 613.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-3)">
+        <rect id="Key-36" data-name="Key" width="38.5" height="42" rx="5" transform="translate(2 613.07)" fill="#676767"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-4)">
+        <path id="Key-37" data-name="Key" d="M5,0H33.5a5,5,0,0,1,5,5V37a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(45 613.07)" fill="#676767"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-5)">
+        <rect id="Key-38" data-name="Key" width="32.5" height="42" rx="5" transform="translate(88 613.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-6)">
+        <rect id="Key-39" data-name="Key" width="42" height="43" rx="5" transform="translate(330 559.67)" fill="#676767"/>
+      </g>
+      <path id="Back" d="M19.379,17H8.293a1,1,0,0,1-.707-.293L.439,9.561a1.5,1.5,0,0,1,0-2.121L7.586.293A1.006,1.006,0,0,1,8.293,0H19.379a3.5,3.5,0,0,1,3.5,3.5v10A3.5,3.5,0,0,1,19.379,17ZM8.586,1.5a.5.5,0,0,0-.354.146L2.086,7.793a1,1,0,0,0,0,1.414l6.147,6.147a.5.5,0,0,0,.354.146H19.379a2,2,0,0,0,2-2V3.5a2,2,0,0,0-2-2Z" transform="translate(339.621 572.5)" fill="#fff"/>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M6.937,8,4.109,5.169,1.28,8A.75.75,0,0,1,.22,6.937L3.048,4.109.22,1.28A.75.75,0,0,1,1.28.22L4.109,3.048,6.937.22A.75.75,0,0,1,8,1.28L5.169,4.109,8,6.937A.75.75,0,1,1,6.937,8Z" transform="translate(349.473 576.869)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-7)">
+        <rect id="Key-40" data-name="Key" width="31.5" height="42" rx="5" transform="translate(284.5 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-8)">
+        <rect id="Key-41" data-name="Key" width="31.5" height="42" rx="5" transform="translate(247 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-9)">
+        <rect id="Key-42" data-name="Key" width="31.5" height="42" rx="5" transform="translate(209.5 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-10)">
+        <rect id="Key-43" data-name="Key" width="31.5" height="42" rx="5" transform="translate(172 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-11)">
+        <rect id="Key-44" data-name="Key" width="31.5" height="42" rx="5" transform="translate(134 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-12)">
+        <rect id="Key-45" data-name="Key" width="31.5" height="42" rx="5" transform="translate(96.5 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-13)">
+        <rect id="Key-46" data-name="Key" width="31.5" height="42" rx="5" transform="translate(59 560.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-14)">
+        <path id="Key-47" data-name="Key" d="M5,0H37a5,5,0,0,1,5,5V38a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(3 559.67)" fill="#bebebe"/>
+      </g>
+      <path id="Path_3" data-name="Path 3" d="M10.611-15.8a.907.907,0,0,0-1.331,0L1.371-7.463c-.738.778-.489,1.408.549,1.408H5.7v4.982a.964.964,0,0,0,.942.985h6.612a.969.969,0,0,0,.942-.985V-6.055H17.97c1.042,0,1.288-.63.549-1.408Z" transform="translate(14.054 589.087)" fill-rule="evenodd"/>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-15)">
+        <rect id="Key-48" data-name="Key" width="31.5" height="42" rx="5" transform="translate(322 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-16)">
+        <rect id="Key-49" data-name="Key" width="31.5" height="42" rx="5" transform="translate(284.5 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-17)">
+        <rect id="Key-50" data-name="Key" width="31.5" height="42" rx="5" transform="translate(247 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-18)">
+        <rect id="Key-51" data-name="Key" width="31.5" height="42" rx="5" transform="translate(209.5 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-19)">
+        <rect id="Key-52" data-name="Key" width="31.5" height="42" rx="5" transform="translate(172 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-20)">
+        <rect id="Key-53" data-name="Key" width="31.5" height="42" rx="5" transform="translate(134 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-21)">
+        <rect id="Key-54" data-name="Key" width="31.5" height="42" rx="5" transform="translate(96.5 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-22)">
+        <rect id="Key-55" data-name="Key" width="31.5" height="42" rx="5" transform="translate(59 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-23)">
+        <rect id="Key-56" data-name="Key" width="31.5" height="42" rx="5" transform="translate(21.5 506.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-24)">
+        <rect id="Key-57" data-name="Key" width="31.5" height="42" rx="5" transform="translate(340.5 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-25)">
+        <rect id="Key-58" data-name="Key" width="31.5" height="42" rx="5" transform="translate(303 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-26)">
+        <rect id="Key-59" data-name="Key" width="31.5" height="42" rx="5" transform="translate(265.5 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-27)">
+        <rect id="Key-60" data-name="Key" width="31.5" height="42" rx="5" transform="translate(228 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-28)">
+        <rect id="Key-61" data-name="Key" width="31.5" height="42" rx="5" transform="translate(190.5 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-29)">
+        <rect id="Key-62" data-name="Key" width="31.5" height="42" rx="5" transform="translate(153 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-30)">
+        <rect id="Key-63" data-name="Key" width="31.5" height="42" rx="5" transform="translate(115.5 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-31)">
+        <rect id="Key-64" data-name="Key" width="31.5" height="42" rx="5" transform="translate(78 452.07)" fill="#8e8e8e"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-32)">
+        <rect id="Key-65" data-name="Key" width="31.5" height="42" rx="5" transform="translate(40.5 452.07)" fill="#8e8e8e"/>
+      </g>
+      <text id="W" transform="translate(56 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-9.341" y="0">W</tspan></text>
+      <text id="W-2" data-name="W" transform="translate(37 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-6.45" y="0">A</tspan></text>
+      <text id="W-3" data-name="W" transform="translate(75 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.313" y="0">S</tspan></text>
+      <text id="W-4" data-name="W" transform="translate(75 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.703" y="0">Z</tspan></text>
+      <text id="W-5" data-name="W" transform="translate(21 640.25)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-12.938" y="0">123</tspan></text>
+      <text id="W-6" data-name="W" transform="translate(200 640.25)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-31.488" y="0">dấu cách</tspan></text>
+      <text id="W-7" data-name="W" transform="translate(328 640.25)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-19.285" y="0">Nhập</tspan></text>
+      <text id="W-8" data-name="W" transform="translate(112 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.898" y="0">X</tspan></text>
+      <text id="W-9" data-name="W" transform="translate(150 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-6.191" y="0">C</tspan></text>
+      <text id="W-10" data-name="W" transform="translate(188 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-6.211" y="0">V</tspan></text>
+      <text id="W-11" data-name="W" transform="translate(226 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.732" y="0">B</tspan></text>
+      <text id="W-12" data-name="W" transform="translate(263 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-7.48" y="0">N</tspan></text>
+      <text id="W-13" data-name="W" transform="translate(300 589.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-8.979" y="0">M</tspan></text>
+      <text id="W-14" data-name="W" transform="translate(112 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-7.012" y="0">D</tspan></text>
+      <text id="W-15" data-name="W" transform="translate(150 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-4.883" y="0">F</tspan></text>
+      <text id="W-16" data-name="W" transform="translate(188 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-6.86" y="0">G</tspan></text>
+      <text id="W-17" data-name="W" transform="translate(226 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-7.1" y="0">H</tspan></text>
+      <text id="W-18" data-name="W" transform="translate(263 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-3.569" y="0">J</tspan></text>
+      <text id="W-19" data-name="W" transform="translate(300 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.801" y="0">K</tspan></text>
+      <text id="W-20" data-name="W" transform="translate(338 535.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-4.707" y="0">L</tspan></text>
+      <text id="W-21" data-name="W" transform="translate(94 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.059" y="0">E</tspan></text>
+      <text id="W-22" data-name="W" transform="translate(131 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.981" y="0">R</tspan></text>
+      <text id="W-23" data-name="W" transform="translate(169 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.239" y="0">T</tspan></text>
+      <text id="W-24" data-name="W" transform="translate(206 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.527" y="0">Y</tspan></text>
+      <text id="W-25" data-name="W" transform="translate(244 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-6.87" y="0">U</tspan></text>
+      <text id="W-26" data-name="W" transform="translate(281 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-2.661" y="0">I</tspan></text>
+      <text id="W-27" data-name="W" transform="translate(319 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-7.539" y="0">O</tspan></text>
+      <text id="W-28" data-name="W" transform="translate(356 481.25)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.601" y="0">P</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, -0.07)" filter="url(#Key-33)">
+        <rect id="Key-66" data-name="Key" width="31.5" height="42" rx="5" transform="translate(3 452.07)" fill="#8e8e8e"/>
+      </g>
+      <text id="Q" transform="translate(18.75 480.25)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-7.162" y="0">Q</tspan></text>
+      <g id="Group_108" data-name="Group 108" transform="translate(2.625 3.6)">
+        <path id="Path" d="M8.982,11.03H2.742a.627.627,0,1,1,0-1.254h.024V9.77H5.23V7.865A5.764,5.764,0,0,1,0,2.219c0-.028,0-.053,0-.078V.7A.608.608,0,0,1,0,.627.64.64,0,0,1,.653,0a.64.64,0,0,1,.653.627.609.609,0,0,1,0,.062V2.414h0v.005c0,.023,0,.045,0,.068v.236h.012A4.52,4.52,0,0,0,5.737,6.766H6a4.518,4.518,0,0,0,4.423-4.044h.016V.634h.005s0,0,0-.007a.653.653,0,0,1,1.306,0q0,.027,0,.054V2.219H11.74A5.769,5.769,0,0,1,6.523,7.865V9.77h2.46v.008h.026a.627.627,0,1,1,0,1.254Z" transform="translate(96 629.362)" fill="#fff"/>
+        <path id="Path-2" data-name="Path" d="M7.045,8.933c0,.379,0,.777-.021,1.156a4.585,4.585,0,0,1-.162,1.01,3.289,3.289,0,0,1-1.24,1.735,3.5,3.5,0,0,1-4.2,0A3.265,3.265,0,0,1,.182,11.1a4.524,4.524,0,0,1-.162-1.01C0,9.71,0,9.312,0,8.933V5.764c0-.376,0-2.038,0-2.319a3.465,3.465,0,0,1,.183-1.01A3.449,3.449,0,0,1,3.523,0a3.449,3.449,0,0,1,3.34,2.435,4.647,4.647,0,0,1,.183,1.01c.024.379,0,1.943,0,2.319V8.933Z" transform="translate(98.35 621.592)" fill="#fff"/>
+        <path id="Path-3" data-name="Path" d="M4.434,8.271c0-3.344.021-5.786,0-6.072a2.9,2.9,0,0,0-.125-.647A2.112,2.112,0,0,0,3.536.434,2.217,2.217,0,0,0,.9.434,2.1,2.1,0,0,0,.123,1.552,3.2,3.2,0,0,0,.011,2.2C-.01,2.464.006,4.936.006,8.271c0,.241,0,.321.016.562a3.011,3.011,0,0,0,.1.647A2.1,2.1,0,0,0,.9,10.6a2.217,2.217,0,0,0,2.635,0,2.112,2.112,0,0,0,.776-1.118,2.858,2.858,0,0,0,.1-.647C4.429,8.592,4.434,8.511,4.434,8.271Z" transform="translate(99.655 622.846)" fill="#8e8e8e"/>
+      </g>
+      <g id="Group_107" data-name="Group 107" transform="translate(-148.358 419.43)">
+        <circle id="Ellipse_32" data-name="Ellipse 32" cx="8.4" cy="8.4" r="8.4" transform="translate(203.25 206.47)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="3.69" cy="8.3" rx="3.69" ry="8.3" transform="translate(207.96 206.56)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="8.3" cy="3.69" rx="8.3" ry="3.69" transform="translate(203.25 211.17)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <text id="Đăng_nhập" data-name="Đăng nhập" transform="translate(36 86.075)" fill="#fff" font-size="36" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Đăng nhập</tspan></text>
+    <text id="Email" transform="translate(36 162.075)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Email</tspan></text>
+    <text id="Mật_khẩu" data-name="Mật khẩu" transform="translate(36 255.075)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mật khẩu</tspan></text>
+    <text id="Quên_mật_khẩu" data-name="Quên mật khẩu" transform="translate(36 333.075)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Quên mật khẩu</tspan></text>
+    <text id="tuyenlt_dtsmart.vn" data-name="tuyenlt@dtsmart.vn" transform="translate(36 188.075)" fill="#8e8e8e" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tuyenlt@dtsmart.vn</tspan></text>
+    <text id="_" data-name="***************" transform="translate(36 277.075)" fill="#8e8e8e" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">***************</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="302" transform="translate(36 193.575)" fill="none" stroke="#5f5f5f" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="302" transform="translate(36 282.575)" fill="none" stroke="#5f5f5f" stroke-width="1"/>
+    <g id="Status_Bar" data-name="Status Bar">
+      <rect id="Frame" width="375" height="44" fill="#fff" opacity="0.001"/>
+      <g id="Status_Bar-2" data-name="Status Bar" transform="translate(21 13)">
+        <g id="Battery" transform="translate(315 3)">
+          <g id="Border" transform="translate(0.333 0.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+            <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+            <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+          </g>
+          <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23.333 4)" fill="#fff" opacity="0.4"/>
+          <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2.333 2.333)" fill="#fff"/>
+        </g>
+        <path id="Wifi" d="M7.667,11a.314.314,0,0,1-.222-.093L5.439,8.885a.31.31,0,0,1-.094-.231.316.316,0,0,1,.1-.227,3.437,3.437,0,0,1,4.437,0,.315.315,0,0,1,.009.458L7.889,10.907A.314.314,0,0,1,7.667,11ZM11.19,7.451a.313.313,0,0,1-.215-.086,4.928,4.928,0,0,0-6.612,0,.313.313,0,0,1-.215.086.308.308,0,0,1-.22-.091L2.768,6.189a.322.322,0,0,1,0-.46,7.192,7.192,0,0,1,9.791,0,.323.323,0,0,1,.1.23.319.319,0,0,1-.095.23L11.409,7.36A.309.309,0,0,1,11.19,7.451Zm2.669-2.693a.3.3,0,0,1-.215-.088,8.68,8.68,0,0,0-11.955,0,.307.307,0,0,1-.435,0L.094,3.5a.323.323,0,0,1,0-.457,10.948,10.948,0,0,1,15.141,0,.323.323,0,0,1,0,.457l-1.161,1.17A.306.306,0,0,1,13.859,4.758Z" transform="translate(295 3.331)" fill="#fff"/>
+        <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(273 3.667)" fill="#fff"/>
+        <g id="Time_Style" data-name="Time Style">
+          <text id="Time" fill="#fff" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="-0.02em"><tspan x="14.116" y="16">9:41</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="remove_red_eye-24px" transform="translate(313 250)">
+      <path id="Path_7717" data-name="Path 7717" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_7718" data-name="Path 7718" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z" fill="#fff"/>
+    </g>
+    <line id="Line_517" data-name="Line 517" x2="22" y2="18" transform="translate(313.5 252.5)" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>

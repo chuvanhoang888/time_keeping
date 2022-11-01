@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <filter id="Rectangle_1998" x="70" y="87" width="277" height="153" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.204"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Quản_lý_phép_13">
+      <rect width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="Quản_lý_phép_13" data-name="Quản lý phép – 13" clip-path="url(#clip-Quản_lý_phép_13)">
+    <rect width="375" height="667" fill="#1d1d1d"/>
+    <g id="Group_2777" data-name="Group 2777" transform="translate(-6.844 -4.63)">
+      <line id="Line_362" data-name="Line 362" x1="9.758" transform="translate(27.944 58.843) rotate(-45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_363" data-name="Line 363" x1="9.758" transform="translate(27.944 58.843) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <text id="Tạo_phép" data-name="Tạo phép" transform="translate(36 58)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Tạo phép</tspan></text>
+    <text id="Loại_phép:_Phép_không_lương" data-name="Loại phép: Phép không lương" transform="translate(36 174)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Loại phép: Phép không lương</tspan></text>
+    <text id="T4_-_09_09_2020" data-name="T4 - 09/09/2020" transform="translate(36 257)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">T4 - 09/09/2020</tspan></text>
+    <text id="_15:00_pm" data-name="15:00 pm" transform="translate(36 230)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">15:00 pm</tspan></text>
+    <g id="Component_4_14" data-name="Component 4 – 14" transform="translate(50.25 576.5)">
+      <g id="khung_nhấn_nút_ok" data-name="khung nhấn nút ok" transform="translate(0 28.802)">
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="275" height="55" rx="27.5" transform="translate(0 -28.802)" fill="#fd5825"/>
+      </g>
+      <text id="Tạo_phép-2" data-name="Tạo phép" transform="translate(85.508 33.5)" fill="#fff" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Tạo phép</tspan></text>
+    </g>
+    <line id="Line_364" data-name="Line 364" x2="376" transform="translate(-0.5 79.5)" fill="none" stroke="#5f5f5f" stroke-width="1"/>
+    <line id="Line_383" data-name="Line 383" x2="376" transform="translate(-0.5 194.5)" fill="none" stroke="#5f5f5f" stroke-width="1"/>
+    <line id="Line_384" data-name="Line 384" x2="303" transform="translate(36.5 478.5)" fill="none" stroke="#5f5f5f" stroke-width="1"/>
+    <text id="ĐƠN_XIN_PHÉP" data-name="ĐƠN XIN PHÉP" transform="translate(36 300)" fill="#fff" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">ĐƠN XIN PHÉP</tspan></text>
+    <text id="Dear_Toàn_Nguyễn_Tôi_tên_Thanh_Lê_bộ_phận_thiết_kế._Tôi_làm_đơn_này_xin_phép_anh_chị_được_nghỉ_ngày_09_09_2020_đến_ngày_12_09_2020._Vì_lý_do_.._nên_tôi_làm_đơn_này._Mong_anh_chị_duyệt_qua." data-name="Dear Toàn Nguyễn ,
+Tôi tên Thanh Lê bộ phận thiết kế. Tôi làm đơn này xin phép anh (chị)  được nghỉ ngày 09/09/2020 đến ngày 12/09/2020. Vì lý do …….. nên tôi làm đơn này. Mong anh (chị) duyệt qua." transform="translate(36 330)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">Dear Toàn Nguyễn ,</tspan><tspan x="0" y="31">Tôi tên Thanh Lê bộ phận thiết kế. Tôi làm đơn này xin </tspan><tspan x="0" y="49" xml:space="preserve">phép anh (chị)  được nghỉ ngày </tspan><tspan y="49" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">09/09/2020</tspan><tspan y="49" xml:space="preserve"> đến ngày </tspan><tspan x="0" y="67" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">12/09/2020</tspan><tspan y="67">. Vì lý do …….. nên tôi làm đơn này. Mong </tspan><tspan x="0" y="85">anh (chị) duyệt qua.</tspan></text>
+    <text id="Sau_khi_đi_làm_lại._Tôi_sẽ_đảm_bảo_yêu_cầu_và_tiến_độ_công_việc." data-name="Sau khi đi làm lại. Tôi sẽ đảm bảo yêu cầu và tiến độ công việc." transform="translate(36 428)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">Sau khi đi làm lại. Tôi sẽ đảm bảo yêu cầu và tiến độ </tspan><tspan x="0" y="31">công việc.</tspan></text>
+    <text id="Thanh_Lê_Bộ_phận_thiết_kế" data-name="Thanh Lê
+Bộ phận thiết kế" transform="translate(37 498)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">Thanh Lê</tspan><tspan x="0" y="31">Bộ phận thiết kế</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1998)">
+      <rect id="Rectangle_1998-2" data-name="Rectangle 1998" width="259" height="135" rx="10" transform="translate(79 95)" fill="#5f5f5f"/>
+    </g>
+    <text id="Đến:_" data-name="Đến: " transform="translate(37 122)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Đến: </tspan></text>
+    <g id="Group_5339" data-name="Group 5339" transform="translate(373.92 89.056) rotate(90)">
+      <line id="Line_362-2" data-name="Line 362" x1="6.595" transform="translate(27.944 56.607) rotate(-45)" fill="none" stroke="#969696" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_363-2" data-name="Line 363" x1="6.595" transform="translate(27.944 56.607) rotate(45)" fill="none" stroke="#969696" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <text id="toan_dtsmart.vn" data-name="toan@dtsmart.vn" transform="translate(104 126)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">toan@dtsmart.vn</tspan></text>
+    <text id="thinh_dtsmart.vn" data-name="thinh@dtsmart.vn" transform="translate(104 152)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">thinh@dtsmart.vn</tspan></text>
+    <text id="nhatledam_dtsmart.vn" data-name="nhatledam@dtsmart.vn" transform="translate(104 178)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">nhatledam@dtsmart.vn</tspan></text>
+    <text id="thanhtuyen_dtsmart.vn" data-name="thanhtuyen@dtsmart.vn" transform="translate(104 206)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">thanhtuyen@dtsmart.vn</tspan></text>
+    <g id="Status_Bar" data-name="Status Bar">
+      <rect id="Frame" width="375" height="44" fill="#fff" opacity="0.001"/>
+      <g id="Status_Bar-2" data-name="Status Bar" transform="translate(21 13)">
+        <g id="Battery" transform="translate(315 3)">
+          <g id="Border" transform="translate(0.333 0.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+            <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+            <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+          </g>
+          <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23.333 4)" fill="#fff" opacity="0.4"/>
+          <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2.333 2.333)" fill="#fff"/>
+        </g>
+        <path id="Wifi" d="M7.667,11a.314.314,0,0,1-.222-.093L5.439,8.885a.31.31,0,0,1-.094-.231.316.316,0,0,1,.1-.227,3.437,3.437,0,0,1,4.437,0,.315.315,0,0,1,.009.458L7.889,10.907A.314.314,0,0,1,7.667,11ZM11.19,7.451a.313.313,0,0,1-.215-.086,4.928,4.928,0,0,0-6.612,0,.313.313,0,0,1-.215.086.308.308,0,0,1-.22-.091L2.768,6.189a.322.322,0,0,1,0-.46,7.192,7.192,0,0,1,9.791,0,.323.323,0,0,1,.1.23.319.319,0,0,1-.095.23L11.409,7.36A.309.309,0,0,1,11.19,7.451Zm2.669-2.693a.3.3,0,0,1-.215-.088,8.68,8.68,0,0,0-11.955,0,.307.307,0,0,1-.435,0L.094,3.5a.323.323,0,0,1,0-.457,10.948,10.948,0,0,1,15.141,0,.323.323,0,0,1,0,.457l-1.161,1.17A.306.306,0,0,1,13.859,4.758Z" transform="translate(295 3.331)" fill="#fff"/>
+        <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(273 3.667)" fill="#fff"/>
+        <g id="Time_Style" data-name="Time Style">
+          <text id="Time" fill="#fff" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="-0.02em"><tspan x="14.116" y="16">9:41</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

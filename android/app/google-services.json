@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048504636499",
+    "project_id": "time-keeping-9152b",
+    "storage_bucket": "time-keeping-9152b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048504636499:android:1158b841583f1a4960a2a6",
+        "android_client_info": {
+          "package_name": "com.example.app_cham_cong_option_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048504636499-9057bd0u3c1n1s31qtbf83apj2qmki67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87TxaM7PAASSITIt531xEvvo9MfKC9Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048504636499-9057bd0u3c1n1s31qtbf83apj2qmki67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

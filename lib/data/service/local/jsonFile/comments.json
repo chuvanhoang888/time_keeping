@@ -1,0 +1,35 @@
+{
+    "message":"ok",
+    "data":[   
+        {
+            "commentId":"1",
+            "postId":"1",
+            "content":"Một ngày đẹp trời",
+            "userId":"1",
+            "userPhoto":"assets/images/beautiful-moraine-lake-banff-national-park-alberta-canada_131985-98.jpg",
+            "userName":"Hoàng Văn",
+            "timeAgo":"1969-07-20 20:18:04Z",
+            "likes":["1","2"]
+        },
+        {
+            "commentId":"1",
+            "postId":"1",
+            "content":"Một ngày đẹp trời",
+            "userId":"1",
+            "userPhoto":"assets/images/278403356_533572378142399_9039076143984300508_n.jpg",
+            "userName":"Hoàng Văn",
+            "timeAgo":"1969-07-20 20:18:04Z",
+            "likes":["1","2"]
+        },
+        {
+            "commentId":"1",
+            "postId":"1",
+            "content":"Một ngày đẹp trời",
+            "userId":"1",
+            "userPhoto":"assets/images/beautiful-moraine-lake-banff-national-park-alberta-canada_131985-98.jpg",
+            "userName":"Hoàng Văn",
+            "timeAgo":"1969-07-20 20:18:04Z",
+            "likes":["1","2"]
+        }
+    ]
+}

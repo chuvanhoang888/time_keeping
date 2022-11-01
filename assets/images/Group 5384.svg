@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="142" viewBox="0 0 87 142">
+  <defs>
+    <filter id="Rectangle_2023" x="0" y="0" width="87" height="142" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5384" data-name="Group 5384" transform="translate(-816 -4707)">
+    <g transform="matrix(1, 0, 0, 1, 816, 4707)" filter="url(#Rectangle_2023)">
+      <rect id="Rectangle_2023-2" data-name="Rectangle 2023" width="69" height="124" transform="translate(9 6)" fill="#137fc3"/>
+    </g>
+    <rect id="Rectangle_2024" data-name="Rectangle 2024" width="56" height="15" rx="3" transform="translate(832 4765)" fill="#fff"/>
+    <rect id="Rectangle_2025" data-name="Rectangle 2025" width="56" height="30" rx="3" transform="translate(832 4785)" fill="#fff"/>
+    <text id="_09:20" data-name="09:20" transform="translate(843 4744)" fill="#fffcf1" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">09:20</tspan></text>
+  </g>
+</svg>
